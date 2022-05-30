@@ -221,6 +221,11 @@ display: flex;
 justify-content: center;
 }
 
+.carousel-caption{
+    color: blue;
+    text-decoration: #050404;
+}
+
 
 /* CARDS */
 
