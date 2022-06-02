@@ -258,7 +258,7 @@ justify-content: center;
     justify-content: center;
     align-items: center;
     filter: grayscale(0.5);
-    color: white;
+    color: rgb(6, 143, 31);
     cursor: pointer;
     transition: 0.3s;
 }
